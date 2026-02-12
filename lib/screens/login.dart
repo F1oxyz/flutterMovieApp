@@ -17,7 +17,7 @@ class loginScreen extends StatelessWidget {
             children: [
               SizedBox(height: 70),
               Text(
-                'Bienvenido Prueba commit',
+                'Bienvenido',
                 style: TextStyle(
                   fontFamily: 'PlusJakartaSans',
                   fontWeight: FontWeight.w700,
